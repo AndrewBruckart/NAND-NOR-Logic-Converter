@@ -1,3 +1,4 @@
+#created by Andrew Bruckart on January 16, 2024
 
 from collections.abc import ByteString
 import random
@@ -118,7 +119,7 @@ def trNOR(tt, max, ins):
 
 
 
-print("----------------------------\nWelcome to the NAND/NOR logic converter\nThis program was written by Andrew B\n----------------------------\n\n")
+print("----------------------------\nWelcome to the NAND/NOR logic converter\nThis program was written by Andrew Bruckart\n----------------------------\n\n")
 
 ALPH = ["A", "B", "C", "D", "E", "F", "G", "H"]
 TT = []
